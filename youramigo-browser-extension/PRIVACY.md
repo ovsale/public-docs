@@ -31,4 +31,4 @@ Only to the YourAmigo server named in your connection code — the server that r
 
 ## Contact
 
-Questions about this policy: *(your contact)*.
+Questions about this policy: alexander.ovsov@gmail.com.
